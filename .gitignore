@@ -54,6 +54,7 @@ dashboard/.vite/
 **/captures/
 **/.idea/
 **/*.iml
+**/*.kt
 **/local.properties        # IMPORTANT: contains local SDK paths
 **/.cxx/
 **/.externalNativeBuild/
